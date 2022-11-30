@@ -32,7 +32,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
-url: gumca2044.github.io
+url: mdpassgn3.github.io
 baseurl: /mdpassgn3
 
 # Exclude from processing.
