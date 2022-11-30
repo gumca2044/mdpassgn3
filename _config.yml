@@ -34,7 +34,7 @@ plugins:
 
 
 url: gumca2044
-baseurl: /mdpassgn3.github.io
+baseurl: /mdpassgn3
 
 # Exclude from processing.
 # The following items will not be processed, by default.
